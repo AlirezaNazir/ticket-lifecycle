@@ -26,7 +26,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
+First things first, make sure to log on to your virtual machine and log on to osTicket as an admin, and make sure you delete the maintenance department. Once that is done you can log out and proceed to create a ticket as an end-user. Visit the end-user login page and click Create New. Go ahead and create a ticket named "entire mobile/online banking system is down" and put Report a Problem as the topic. Make sure you use the login credentials of the end-user you created in the last lab as well. Once the ticket is created, go ahead and log on as one of your agents, specifically John Doe, once logged in you should be able to see the created ticket, go ahead and open it and observe it. After that, you should set the priority to Sev-A as a critical outage would lead to a big impact on business and assign it to the online banking department. Once that is done, go ahead and log out and log back in as Jane Doe, due to her being in the online banking department, to finish the ticket to completion.
+<p>
+<img src="https://i.imgur.com/h4NFeKm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/7j0M4fN.png" height="80%" width="80%" alt="Disk Sanitization Steps
+    <img src="https://i.imgur.com/5NkTG7a.png" height="80%" width="80%" alt="Disk Sanitization Steps
+  <img src="https://i.imgur.com/mOpnWnE.png" height="80%" width="80%" alt="Disk Sanitization Steps
+    <img src="https://i.imgur.com/SoI1tyY.png" height="80%" width="80%" alt="Disk Sanitization Steps
 </p>
 <p>
 
